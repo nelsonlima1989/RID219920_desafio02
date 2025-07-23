@@ -79,13 +79,9 @@ A estrutura principal da página é:
 
 ## ✍️ Autor
 
-Desenvolvido por [Seu Nome Aqui] como parte do desafio da [Escola DNC](https://www.escoladnc.com.br/)
+Desenvolvido por Nelson Lima como parte do desafio da [Escola DNC](https://www.escoladnc.com.br/)
 
 ---
 
-## 📸 Screenshot
 
-![The Dev News preview](./assets/img-city.jpg)
-
----
 
