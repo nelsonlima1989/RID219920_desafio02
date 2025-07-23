@@ -4,6 +4,12 @@ Este projeto foi desenvolvido como parte do desafio proposto pela **Escola DNC**
 
 ---
 
+## 🔗 Acesse o site
+
+👉 [Clique aqui para visualizar o projeto online](https://rid-219920-desafio02.vercel.app/)
+
+---
+
 ## 🔍 Objetivo
 
 Criar uma página web moderna e responsiva com:
